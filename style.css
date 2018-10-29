@@ -1,0 +1,75 @@
+body {
+    font-size:32px;
+    line-height:32px;
+    text-align:center;
+    color:black;
+    background-color: lightgrey;
+}
+
+header {
+    float:center;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: darkgreen;
+    border: solid black 3px;
+}
+
+#navBox {
+    float:center;
+    padding:30px;
+    margin-bottom:20px;
+    background-color: lightblue;
+    border: solid black 3px;
+
+}
+
+section {
+    float:left;
+    width: 50%;
+    padding:20px;
+    margin-bottom:20px;
+    background-color: gray;
+    border: solid black 3px;
+
+}
+
+aside {
+    float:right;
+    height:675px;
+    width: 40%;
+    padding:20px;
+    margin-bottom:20px;
+    background-color: pink;
+    border: solid black 3px;
+}
+
+#articleBox {
+    float:center;
+    padding:20px;
+    margin-top:10px;
+    background-color: white;
+}
+
+#headingBox {
+    float:center;
+    padding:20px;
+    margin-top:10px;
+    background-color: red;
+}
+
+#paraBox {
+    font-size:24px;
+    line-height:24px;
+    float:center;
+    padding:20px;
+    margin-top:10px;
+    background-color: blue;
+}
+
+footer {
+    clear:both;
+    padding:20px;
+    background-color:plum;
+    border: solid black 3px;
+    margin-bottom: 20px;
+}
